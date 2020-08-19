@@ -1,5 +1,5 @@
 1. 
-  a. O(n)
+  a. O(1)
   b. O(n)
   c. O(n2)
   d. O(logn)
@@ -14,12 +14,12 @@
 3. 
   a. O(n)
   b. O(n3)
-  c. O(n4)
-  d. O(n4)
+  c. O(n)
+  d. O(n)
 
 4. 
   a. O(n)
-  b. O(n2)
-  c. O(n3)
-  d. O(n3)
+  b. O(n)
+  c. O(1)
+  d. O(n)
 
